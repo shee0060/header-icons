@@ -8,7 +8,14 @@ html {
   box-sizing: inherit;
 }
 
+header {
+  display: inline-block;
+  text-align: center;
+  margin: 0;
+}
+
 body {
   display: inline-block;
   text-align: center;
+  margin: 0;
 }
