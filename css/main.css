@@ -11,6 +11,7 @@ html {
 header {
   display: inline-block;
   text-align: center;
+  text-size: 2rem;
   margin: 0;
 }
 
@@ -21,13 +22,14 @@ img {
 
 body {
   display: inline-block;
-  text-align: center;
   margin: 0;
 }
 
 a {
   display: inline-block;
   text-decoration: none;
+  text-size: 1.125rem;
+  color: #fff;
 }
 
 a:hover {
@@ -37,4 +39,9 @@ a:hover {
 nav ul li {
   display: inline-block;
   list-style-type: none;
+}
+
+nav {
+  background-color: #d05c2e;
+  padding: .4rem 0;
 }
