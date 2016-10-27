@@ -20,6 +20,16 @@ img {
   width: 40px;
 }
 
+.left {
+  float: left;
+  width: 40px;
+}
+
+.right {
+  float: right;
+  width 40px;
+}
+
 body {
   display: inline-block;
   margin: 0;
