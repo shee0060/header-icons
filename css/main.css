@@ -9,5 +9,6 @@ html {
 }
 
 body {
-
+  display: inline-block;
+  text-align: center;
 }
