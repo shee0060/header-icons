@@ -11,7 +11,7 @@ html {
 header {
   display: inline-block;
   text-align: center;
-  text-size: 2rem;
+  font-size: 2rem;
   margin: 0;
 }
 
@@ -38,7 +38,7 @@ body {
 a {
   display: inline-block;
   text-decoration: none;
-  text-size: 1.125rem;
+  font-size: 1.125rem;
   color: #fff;
 }
 
